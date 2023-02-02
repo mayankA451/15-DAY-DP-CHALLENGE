@@ -38,4 +38,14 @@ Everyday I will be practising about 3 main topics
        <h5>https://leetcode.com/problems/find-the-derangement-of-an-array/</h5>
     </li>
  </ul>
+ 
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ <h4>Day 4 </h4>
+ <ul>
+    <li>
+       <h6>Minimmum Climbing Stairs</h6>
+       <h5>https://leetcode.com/problems/min-cost-climbing-stairs/</h5>
+    </li>
+ </ul>
 
