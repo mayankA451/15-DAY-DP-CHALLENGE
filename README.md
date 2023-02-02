@@ -29,3 +29,13 @@ Everyday I will be practising about 3 main topics
        <h5>https://leetcode.com/problems/house-robber/</h5>
     </li>
  </ul>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ <h4>Day 3 (VERY IMP QUESTION)</h4>
+ <ul>
+    <li>
+       <h6> Count Derangements</h6>
+       <h5>https://leetcode.com/problems/find-the-derangement-of-an-array/</h5>
+    </li>
+ </ul>
+
